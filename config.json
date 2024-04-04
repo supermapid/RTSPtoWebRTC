@@ -1,13 +1,39 @@
 {
   "server": {
-    "http_port": ":8083",
-    "ice_servers": ["stun:stun.l.google.com:19302"]
+    "http_port": ":8083"
   },
   "streams": {
-    "H264_AAC": {
-      "on_demand": false,
-      "disable_audio": true,
-      "url": "rtsp://admin:admin@176.117.205.3:5541/video1"
+    "R9": {
+      "on_demand": true,
+      "url": "rtsp://ancol:ancol@kafe@cctv.ancol.com:1201/Streaming/Channels/102/"
+    },
+    "R10": {
+      "on_demand": true,
+      "url": "rtsp://ancol:ancol@kafe@cctv.ancol.com:1201/Streaming/Channels/202/"
+    },
+    "R11": {
+      "on_demand": true,
+      "url": "rtsp://ancol:ancol@kafe@cctv.ancol.com:1201/Streaming/Channels/302/"
+    },
+    "R12": {
+      "on_demand": true,
+      "url": "rtsp://ancol:ancol@kafe@cctv.ancol.com:1201/Streaming/Channels/402/"
+    },
+    "R13": {
+      "on_demand": true,
+      "url": "rtsp://ancol:ancol@kafe@cctv.ancol.com:1201/Streaming/Channels/502/"
+    },
+    "R14": {
+      "on_demand": true,
+      "url": "rtsp://ancol:ancol@kafe@cctv.ancol.com:1201/Streaming/Channels/602/"
+    },
+    "R15": {
+      "on_demand": true,
+      "url": "rtsp://ancol:ancol@kafe@cctv.ancol.com:1201/Streaming/Channels/702/"
+    },
+    "R16": {
+      "on_demand": true,
+      "url": "rtsp://ancol:ancol@kafe@cctv.ancol.com:1201/Streaming/Channels/802/"
     }
   }
 }
