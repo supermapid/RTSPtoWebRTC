@@ -242,6 +242,150 @@
     "R22": {
       "on_demand": true,
       "url": "rtsp://monitor:ancol@cctv@cctv.ancol.com:1216/Streaming/Channels/601/"
+    },
+    "D66": {
+      "on_demand": true,
+      "url": "rtsp://monitor:ancol@cctv@cctv.ancol.com:1217/Streaming/Channels/101/"
+    },
+    "D67": {
+      "on_demand": true,
+      "url": "rtsp://monitor:ancol@cctv@cctv.ancol.com:1217/Streaming/Channels/201/"
+    },
+    "D68": {
+      "on_demand": true,
+      "url": "rtsp://monitor:ancol@cctv@cctv.ancol.com:1217/Streaming/Channels/301/"
+    },
+    "D69": {
+      "on_demand": true,
+      "url": "rtsp://monitor:ancol@cctv@cctv.ancol.com:1217/Streaming/Channels/401/"
+    },
+    "D70": {
+      "on_demand": true,
+      "url": "rtsp://monitor:ancol@cctv@cctv.ancol.com:1217/Streaming/Channels/501/"
+    },
+    "D71": {
+      "on_demand": true,
+      "url": "rtsp://monitor:ancol@cctv@cctv.ancol.com:1217/Streaming/Channels/601/"
+    },
+    "D72": {
+      "on_demand": true,
+      "url": "rtsp://monitor:ancol@cctv@cctv.ancol.com:1217/Streaming/Channels/701/"
+    },
+    "D73": {
+      "on_demand": true,
+      "url": "rtsp://monitor:ancol@cctv@cctv.ancol.com:1217/Streaming/Channels/801/"
+    },
+    "D74": {
+      "on_demand": true,
+      "url": "rtsp://monitor:ancol@cctv@cctv.ancol.com:1217/Streaming/Channels/901/"
+    },
+    "D75": {
+      "on_demand": true,
+      "url": "rtsp://monitor:ancol@cctv@cctv.ancol.com:1217/Streaming/Channels/1001/"
+    },
+    "PD1": {
+      "on_demand": true,
+      "url": "rtsp://monitor:ancol@cctv@cctv.ancol.com:1221/Streaming/Channels/101/"
+    },
+    "PD2": {
+      "on_demand": true,
+      "url": "rtsp://monitor:ancol@cctv@cctv.ancol.com:1221/Streaming/Channels/201/"
+    },
+    "PD3": {
+      "on_demand": true,
+      "url": "rtsp://monitor:ancol@cctv@cctv.ancol.com:1221/Streaming/Channels/301/"
+    },
+    "PD4": {
+      "on_demand": true,
+      "url": "rtsp://monitor:ancol@cctv@cctv.ancol.com:1221/Streaming/Channels/401/"
+    },
+    "PD5": {
+      "on_demand": true,
+      "url": "rtsp://monitor:ancol@cctv@cctv.ancol.com:1221/Streaming/Channels/501/"
+    },
+    "PD6": {
+      "on_demand": true,
+      "url": "rtsp://monitor:ancol@cctv@cctv.ancol.com:1221/Streaming/Channels/601/"
+    },
+    "E1": {
+      "on_demand": true,
+      "url": "rtsp://monitor:ancol@cctv@cctv.ancol.com:1228/Streaming/Channels/101/"
+    },
+    "E2": {
+      "on_demand": true,
+      "url": "rtsp://monitor:ancol@cctv@cctv.ancol.com:1228/Streaming/Channels/201/"
+    },
+    "E3": {
+      "on_demand": true,
+      "url": "rtsp://monitor:ancol@cctv@cctv.ancol.com:1228/Streaming/Channels/301/"
+    },
+    "E4": {
+      "on_demand": true,
+      "url": "rtsp://monitor:ancol@cctv@cctv.ancol.com:1228/Streaming/Channels/401/"
+    },
+    "E5": {
+      "on_demand": true,
+      "url": "rtsp://monitor:ancol@cctv@cctv.ancol.com:1228/Streaming/Channels/501/"
+    },
+    "E6": {
+      "on_demand": true,
+      "url": "rtsp://monitor:ancol@cctv@cctv.ancol.com:1228/Streaming/Channels/601/"
+    },
+    "E7": {
+      "on_demand": true,
+      "url": "rtsp://monitor:ancol@cctv@cctv.ancol.com:1228/Streaming/Channels/701/"
+    },
+    "E8": {
+      "on_demand": true,
+      "url": "rtsp://monitor:ancol@cctv@cctv.ancol.com:1228/Streaming/Channels/801/"
+    },
+    "E9": {
+      "on_demand": true,
+      "url": "rtsp://monitor:ancol@cctv@cctv.ancol.com:1228/Streaming/Channels/901/"
+    },
+    "D76": {
+      "on_demand": true,
+      "url": "rtsp://monitor:ancol@cctv@cctv.ancol.com:1233/Streaming/Channels/101/"
+    },
+    "D77": {
+      "on_demand": true,
+      "url": "rtsp://monitor:ancol@cctv@cctv.ancol.com:1233/Streaming/Channels/201/"
+    },
+    "D78": {
+      "on_demand": true,
+      "url": "rtsp://monitor:ancol@cctv@cctv.ancol.com:1233/Streaming/Channels/301/"
+    },
+    "D79": {
+      "on_demand": true,
+      "url": "rtsp://monitor:ancol@cctv@cctv.ancol.com:1233/Streaming/Channels/401/"
+    },
+    "D80": {
+      "on_demand": true,
+      "url": "rtsp://monitor:ancol@cctv@cctv.ancol.com:1233/Streaming/Channels/501/"
+    },
+    "D81": {
+      "on_demand": true,
+      "url": "rtsp://monitor:ancol@cctv@cctv.ancol.com:1233/Streaming/Channels/601/"
+    },
+    "D82": {
+      "on_demand": true,
+      "url": "rtsp://monitor:ancol@cctv@cctv.ancol.com:1233/Streaming/Channels/701/"
+    },
+    "D83": {
+      "on_demand": true,
+      "url": "rtsp://monitor:ancol@cctv@cctv.ancol.com:1233/Streaming/Channels/801/"
+    },
+    "D84": {
+      "on_demand": true,
+      "url": "rtsp://monitor:ancol@cctv@cctv.ancol.com:1233/Streaming/Channels/901/"
+    },
+    "D85": {
+      "on_demand": true,
+      "url": "rtsp://monitor:ancol@cctv@cctv.ancol.com:1233/Streaming/Channels/1001/"
+    },
+    "D86": {
+      "on_demand": true,
+      "url": "rtsp://monitor:ancol@cctv@cctv.ancol.com:1233/Streaming/Channels/1101/"
     }
   }
 }
